@@ -1,5 +1,5 @@
 
-<h1 align="center">✂️ ClipWise Frontend</h1>
+<h1 align="center"> ClipWise Frontend</h1>
 
 <p align="center">
   <strong>React 18 · Vite 6 · Tailwind CSS v4 · TypeScript</strong><br>
